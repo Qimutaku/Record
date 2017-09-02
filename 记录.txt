@@ -4,3 +4,4 @@
 4.commit
 5.remote add origin 
 6.push
+这个时候我们先随便操作一个命令，比如 git status ，可以看到如下提示（别纠结颜色之类的，配置与主题不一样而已）：
